@@ -1,8 +1,8 @@
 <h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
-Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
+Projeto da live coding do bootcamp GFT Java & AWS da DIO onde foi desenvolvido um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
-Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
+Durante a sessão, foram desenvolvidos e abordados os seguintes tópicos:
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados
@@ -48,7 +48,6 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Documentação oficial do Map Struct](https://mapstruct.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
-[Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
 
 
 
