@@ -10,7 +10,7 @@ Durante a sessão, foram desenvolvidos e abordados os seguintes tópicos:
 * Relação de cada uma das operações acima com o padrão arquitetural REST, e a explicação de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto.
 * Desenvolvimento de testes unitários para validação das funcionalidades
 * Implantação do sistema na nuvem através do Heroku
-* Implementação da Interface OpenAPI - Adaptação de minha autoria: @andy-sp
+* Integração da Especificação OpenAPI - Adaptação de minha autoria: @andy-sp
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
